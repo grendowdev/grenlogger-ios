@@ -1,0 +1,4 @@
+framework module GrenLogger {
+  header "GrenLogger-Swift.h"
+  requires objc
+}

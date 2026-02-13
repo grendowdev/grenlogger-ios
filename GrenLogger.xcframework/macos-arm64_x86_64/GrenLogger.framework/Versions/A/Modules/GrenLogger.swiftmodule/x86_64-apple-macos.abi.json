@@ -1,0 +1,1319 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "GrenLogger",
+    "printedName": "GrenLogger",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "GrenLogger"
+      },
+      {
+        "kind": "Import",
+        "name": "os.log",
+        "printedName": "os.log",
+        "declKind": "Import",
+        "moduleName": "GrenLogger"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "GrenLogger",
+        "printedName": "GrenLogger",
+        "children": [
+          {
+            "kind": "TypeDecl",
+            "name": "Level",
+            "printedName": "Level",
+            "children": [
+              {
+                "kind": "Var",
+                "name": "debug",
+                "printedName": "debug",
+                "children": [
+                  {
+                    "kind": "TypeFunc",
+                    "name": "Function",
+                    "printedName": "(GrenLogger.GrenLogger.Level.Type) -> GrenLogger.GrenLogger.Level",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Level",
+                        "printedName": "GrenLogger.GrenLogger.Level",
+                        "usr": "s:10GrenLoggerAAC5LevelO"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Metatype",
+                        "printedName": "GrenLogger.GrenLogger.Level.Type",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Level",
+                            "printedName": "GrenLogger.GrenLogger.Level",
+                            "usr": "s:10GrenLoggerAAC5LevelO"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "declKind": "EnumElement",
+                "usr": "s:10GrenLoggerAAC5LevelO5debugyA2DmF",
+                "mangledName": "$s10GrenLoggerAAC5LevelO5debugyA2DmF",
+                "moduleName": "GrenLogger"
+              },
+              {
+                "kind": "Var",
+                "name": "info",
+                "printedName": "info",
+                "children": [
+                  {
+                    "kind": "TypeFunc",
+                    "name": "Function",
+                    "printedName": "(GrenLogger.GrenLogger.Level.Type) -> GrenLogger.GrenLogger.Level",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Level",
+                        "printedName": "GrenLogger.GrenLogger.Level",
+                        "usr": "s:10GrenLoggerAAC5LevelO"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Metatype",
+                        "printedName": "GrenLogger.GrenLogger.Level.Type",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Level",
+                            "printedName": "GrenLogger.GrenLogger.Level",
+                            "usr": "s:10GrenLoggerAAC5LevelO"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "declKind": "EnumElement",
+                "usr": "s:10GrenLoggerAAC5LevelO4infoyA2DmF",
+                "mangledName": "$s10GrenLoggerAAC5LevelO4infoyA2DmF",
+                "moduleName": "GrenLogger"
+              },
+              {
+                "kind": "Var",
+                "name": "warning",
+                "printedName": "warning",
+                "children": [
+                  {
+                    "kind": "TypeFunc",
+                    "name": "Function",
+                    "printedName": "(GrenLogger.GrenLogger.Level.Type) -> GrenLogger.GrenLogger.Level",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Level",
+                        "printedName": "GrenLogger.GrenLogger.Level",
+                        "usr": "s:10GrenLoggerAAC5LevelO"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Metatype",
+                        "printedName": "GrenLogger.GrenLogger.Level.Type",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Level",
+                            "printedName": "GrenLogger.GrenLogger.Level",
+                            "usr": "s:10GrenLoggerAAC5LevelO"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "declKind": "EnumElement",
+                "usr": "s:10GrenLoggerAAC5LevelO7warningyA2DmF",
+                "mangledName": "$s10GrenLoggerAAC5LevelO7warningyA2DmF",
+                "moduleName": "GrenLogger"
+              },
+              {
+                "kind": "Var",
+                "name": "error",
+                "printedName": "error",
+                "children": [
+                  {
+                    "kind": "TypeFunc",
+                    "name": "Function",
+                    "printedName": "(GrenLogger.GrenLogger.Level.Type) -> GrenLogger.GrenLogger.Level",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Level",
+                        "printedName": "GrenLogger.GrenLogger.Level",
+                        "usr": "s:10GrenLoggerAAC5LevelO"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Metatype",
+                        "printedName": "GrenLogger.GrenLogger.Level.Type",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Level",
+                            "printedName": "GrenLogger.GrenLogger.Level",
+                            "usr": "s:10GrenLoggerAAC5LevelO"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "declKind": "EnumElement",
+                "usr": "s:10GrenLoggerAAC5LevelO5erroryA2DmF",
+                "mangledName": "$s10GrenLoggerAAC5LevelO5erroryA2DmF",
+                "moduleName": "GrenLogger"
+              },
+              {
+                "kind": "Var",
+                "name": "fatal",
+                "printedName": "fatal",
+                "children": [
+                  {
+                    "kind": "TypeFunc",
+                    "name": "Function",
+                    "printedName": "(GrenLogger.GrenLogger.Level.Type) -> GrenLogger.GrenLogger.Level",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Level",
+                        "printedName": "GrenLogger.GrenLogger.Level",
+                        "usr": "s:10GrenLoggerAAC5LevelO"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Metatype",
+                        "printedName": "GrenLogger.GrenLogger.Level.Type",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Level",
+                            "printedName": "GrenLogger.GrenLogger.Level",
+                            "usr": "s:10GrenLoggerAAC5LevelO"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "declKind": "EnumElement",
+                "usr": "s:10GrenLoggerAAC5LevelO5fatalyA2DmF",
+                "mangledName": "$s10GrenLoggerAAC5LevelO5fatalyA2DmF",
+                "moduleName": "GrenLogger"
+              },
+              {
+                "kind": "Constructor",
+                "name": "init",
+                "printedName": "init(rawValue:)",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "GrenLogger.GrenLogger.Level?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Level",
+                        "printedName": "GrenLogger.GrenLogger.Level",
+                        "usr": "s:10GrenLoggerAAC5LevelO"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Constructor",
+                "usr": "s:10GrenLoggerAAC5LevelO8rawValueADSgSS_tcfc",
+                "mangledName": "$s10GrenLoggerAAC5LevelO8rawValueADSgSS_tcfc",
+                "moduleName": "GrenLogger",
+                "implicit": true,
+                "init_kind": "Designated"
+              },
+              {
+                "kind": "Var",
+                "name": "rawValue",
+                "printedName": "rawValue",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Var",
+                "usr": "s:10GrenLoggerAAC5LevelO8rawValueSSvp",
+                "mangledName": "$s10GrenLoggerAAC5LevelO8rawValueSSvp",
+                "moduleName": "GrenLogger",
+                "implicit": true,
+                "accessors": [
+                  {
+                    "kind": "Accessor",
+                    "name": "Get",
+                    "printedName": "Get()",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "declKind": "Accessor",
+                    "usr": "s:10GrenLoggerAAC5LevelO8rawValueSSvg",
+                    "mangledName": "$s10GrenLoggerAAC5LevelO8rawValueSSvg",
+                    "moduleName": "GrenLogger",
+                    "implicit": true,
+                    "accessorKind": "get"
+                  }
+                ]
+              }
+            ],
+            "declKind": "Enum",
+            "usr": "s:10GrenLoggerAAC5LevelO",
+            "mangledName": "$s10GrenLoggerAAC5LevelO",
+            "moduleName": "GrenLogger",
+            "declAttributes": [
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "enumRawTypeName": "String",
+            "conformances": [
+              {
+                "kind": "Conformance",
+                "name": "Copyable",
+                "printedName": "Copyable",
+                "usr": "s:s8CopyableP",
+                "mangledName": "$ss8CopyableP"
+              },
+              {
+                "kind": "Conformance",
+                "name": "Escapable",
+                "printedName": "Escapable",
+                "usr": "s:s9EscapableP",
+                "mangledName": "$ss9EscapableP"
+              },
+              {
+                "kind": "Conformance",
+                "name": "Equatable",
+                "printedName": "Equatable",
+                "usr": "s:SQ",
+                "mangledName": "$sSQ"
+              },
+              {
+                "kind": "Conformance",
+                "name": "Hashable",
+                "printedName": "Hashable",
+                "usr": "s:SH",
+                "mangledName": "$sSH"
+              },
+              {
+                "kind": "Conformance",
+                "name": "RawRepresentable",
+                "printedName": "RawRepresentable",
+                "children": [
+                  {
+                    "kind": "TypeWitness",
+                    "name": "RawValue",
+                    "printedName": "RawValue",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ]
+                  }
+                ],
+                "usr": "s:SY",
+                "mangledName": "$sSY"
+              }
+            ]
+          },
+          {
+            "kind": "Function",
+            "name": "initialize",
+            "printedName": "initialize(apiKey:userId:collect:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "hasDefaultArg": true,
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:10GrenLoggerAAC10initialize6apiKey6userId7collectySS_SSSgSbtFZ",
+            "mangledName": "$s10GrenLoggerAAC10initialize6apiKey6userId7collectySS_SSSgSbtFZ",
+            "moduleName": "GrenLogger",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "debug",
+            "printedName": "debug(_:metadata:file:function:line:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "[Swift.String : Any]?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Dictionary",
+                    "printedName": "[Swift.String : Any]",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "ProtocolComposition",
+                        "printedName": "Any"
+                      }
+                    ],
+                    "usr": "s:SD"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "hasDefaultArg": true,
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "hasDefaultArg": true,
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "hasDefaultArg": true,
+                "usr": "s:Si"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:10GrenLoggerAAC5debug_8metadata4file8function4lineySS_SDySSypGSgS2SSitFZ",
+            "mangledName": "$s10GrenLoggerAAC5debug_8metadata4file8function4lineySS_SDySSypGSgS2SSitFZ",
+            "moduleName": "GrenLogger",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "info",
+            "printedName": "info(_:metadata:file:function:line:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "[Swift.String : Any]?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Dictionary",
+                    "printedName": "[Swift.String : Any]",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "ProtocolComposition",
+                        "printedName": "Any"
+                      }
+                    ],
+                    "usr": "s:SD"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "hasDefaultArg": true,
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "hasDefaultArg": true,
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "hasDefaultArg": true,
+                "usr": "s:Si"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:10GrenLoggerAAC4info_8metadata4file8function4lineySS_SDySSypGSgS2SSitFZ",
+            "mangledName": "$s10GrenLoggerAAC4info_8metadata4file8function4lineySS_SDySSypGSgS2SSitFZ",
+            "moduleName": "GrenLogger",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "warning",
+            "printedName": "warning(_:metadata:file:function:line:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "[Swift.String : Any]?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Dictionary",
+                    "printedName": "[Swift.String : Any]",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "ProtocolComposition",
+                        "printedName": "Any"
+                      }
+                    ],
+                    "usr": "s:SD"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "hasDefaultArg": true,
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "hasDefaultArg": true,
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "hasDefaultArg": true,
+                "usr": "s:Si"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:10GrenLoggerAAC7warning_8metadata4file8function4lineySS_SDySSypGSgS2SSitFZ",
+            "mangledName": "$s10GrenLoggerAAC7warning_8metadata4file8function4lineySS_SDySSypGSgS2SSitFZ",
+            "moduleName": "GrenLogger",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "error",
+            "printedName": "error(_:metadata:error:file:function:line:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "[Swift.String : Any]?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Dictionary",
+                    "printedName": "[Swift.String : Any]",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "ProtocolComposition",
+                        "printedName": "Any"
+                      }
+                    ],
+                    "usr": "s:SD"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "(any Swift.Error)?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Error",
+                    "printedName": "any Swift.Error",
+                    "usr": "s:s5ErrorP"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "hasDefaultArg": true,
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "hasDefaultArg": true,
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "hasDefaultArg": true,
+                "usr": "s:Si"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:10GrenLoggerAAC5error_8metadataAC4file8function4lineySS_SDySSypGSgs5Error_pSgS2SSitFZ",
+            "mangledName": "$s10GrenLoggerAAC5error_8metadataAC4file8function4lineySS_SDySSypGSgs5Error_pSgS2SSitFZ",
+            "moduleName": "GrenLogger",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "fatal",
+            "printedName": "fatal(_:metadata:error:file:function:line:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "[Swift.String : Any]?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Dictionary",
+                    "printedName": "[Swift.String : Any]",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "ProtocolComposition",
+                        "printedName": "Any"
+                      }
+                    ],
+                    "usr": "s:SD"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "(any Swift.Error)?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Error",
+                    "printedName": "any Swift.Error",
+                    "usr": "s:s5ErrorP"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "hasDefaultArg": true,
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "hasDefaultArg": true,
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "hasDefaultArg": true,
+                "usr": "s:Si"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:10GrenLoggerAAC5fatal_8metadata5error4file8function4lineySS_SDySSypGSgs5Error_pSgS2SSitFZ",
+            "mangledName": "$s10GrenLoggerAAC5fatal_8metadata5error4file8function4lineySS_SDySSypGSgs5Error_pSgS2SSitFZ",
+            "moduleName": "GrenLogger",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "setUserId",
+            "printedName": "setUserId(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:10GrenLoggerAAC9setUserIdyySSSgFZ",
+            "mangledName": "$s10GrenLoggerAAC9setUserIdyySSSgFZ",
+            "moduleName": "GrenLogger",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "flush",
+            "printedName": "flush()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:10GrenLoggerAAC5flushyyFZ",
+            "mangledName": "$s10GrenLoggerAAC5flushyyFZ",
+            "moduleName": "GrenLogger",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "sync",
+            "printedName": "sync()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:10GrenLoggerAAC4syncSbyYaFZ",
+            "mangledName": "$s10GrenLoggerAAC4syncSbyYaFZ",
+            "moduleName": "GrenLogger",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "shutdown",
+            "printedName": "shutdown()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:10GrenLoggerAAC8shutdownyyFZ",
+            "mangledName": "$s10GrenLoggerAAC8shutdownyyFZ",
+            "moduleName": "GrenLogger",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "s:10GrenLoggerAAC",
+        "mangledName": "$s10GrenLoggerAAC",
+        "moduleName": "GrenLogger",
+        "declAttributes": [
+          "Final",
+          "AccessControl",
+          "RawDocComment"
+        ],
+        "hasMissingDesignatedInitializers": true,
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "SendableMetatype",
+            "printedName": "SendableMetatype",
+            "usr": "s:s16SendableMetatypeP",
+            "mangledName": "$ss16SendableMetatypeP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "GrenLogger"
+      },
+      {
+        "kind": "Import",
+        "name": "os.log",
+        "printedName": "os.log",
+        "declKind": "Import",
+        "moduleName": "GrenLogger"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "GrenLogger"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "GrenLogger"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "GrenLogger"
+      },
+      {
+        "kind": "Import",
+        "name": "os.log",
+        "printedName": "os.log",
+        "declKind": "Import",
+        "moduleName": "GrenLogger"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "GrenLogger"
+      },
+      {
+        "kind": "Import",
+        "name": "os.log",
+        "printedName": "os.log",
+        "declKind": "Import",
+        "moduleName": "GrenLogger"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "GrenLogger"
+      },
+      {
+        "kind": "Import",
+        "name": "os.log",
+        "printedName": "os.log",
+        "declKind": "Import",
+        "moduleName": "GrenLogger"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "GrenLogger"
+      },
+      {
+        "kind": "Import",
+        "name": "os.log",
+        "printedName": "os.log",
+        "declKind": "Import",
+        "moduleName": "GrenLogger"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "GrenLogger"
+      },
+      {
+        "kind": "Import",
+        "name": "Security",
+        "printedName": "Security",
+        "declKind": "Import",
+        "moduleName": "GrenLogger"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "GrenLogger"
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": [
+    {
+      "filePath": "\/Users\/sergio\/Workspace\/grendowdev-platforms\/grenlogger\/sdks\/ios\/GrenLogger\/Sources\/GrenLogger\/GrenLogger.swift",
+      "kind": "StringLiteral",
+      "offset": 1383,
+      "length": 7,
+      "value": "\"DEBUG\""
+    },
+    {
+      "filePath": "\/Users\/sergio\/Workspace\/grendowdev-platforms\/grenlogger\/sdks\/ios\/GrenLogger\/Sources\/GrenLogger\/GrenLogger.swift",
+      "kind": "StringLiteral",
+      "offset": 1411,
+      "length": 6,
+      "value": "\"INFO\""
+    },
+    {
+      "filePath": "\/Users\/sergio\/Workspace\/grendowdev-platforms\/grenlogger\/sdks\/ios\/GrenLogger\/Sources\/GrenLogger\/GrenLogger.swift",
+      "kind": "StringLiteral",
+      "offset": 1441,
+      "length": 9,
+      "value": "\"WARNING\""
+    },
+    {
+      "filePath": "\/Users\/sergio\/Workspace\/grendowdev-platforms\/grenlogger\/sdks\/ios\/GrenLogger\/Sources\/GrenLogger\/GrenLogger.swift",
+      "kind": "StringLiteral",
+      "offset": 1472,
+      "length": 7,
+      "value": "\"ERROR\""
+    },
+    {
+      "filePath": "\/Users\/sergio\/Workspace\/grendowdev-platforms\/grenlogger\/sdks\/ios\/GrenLogger\/Sources\/GrenLogger\/GrenLogger.swift",
+      "kind": "StringLiteral",
+      "offset": 1501,
+      "length": 7,
+      "value": "\"FATAL\""
+    },
+    {
+      "filePath": "\/Users\/sergio\/Workspace\/grendowdev-platforms\/grenlogger\/sdks\/ios\/GrenLogger\/Sources\/GrenLogger\/GrenLogger.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1740,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/sergio\/Workspace\/grendowdev-platforms\/grenlogger\/sdks\/ios\/GrenLogger\/Sources\/GrenLogger\/GrenLogger.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1857,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/sergio\/Workspace\/grendowdev-platforms\/grenlogger\/sdks\/ios\/GrenLogger\/Sources\/GrenLogger\/GrenLogger.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1892,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/sergio\/Workspace\/grendowdev-platforms\/grenlogger\/sdks\/ios\/GrenLogger\/Sources\/GrenLogger\/GrenLogger.swift",
+      "kind": "StringLiteral",
+      "offset": 1982,
+      "length": 20,
+      "value": "\"app.grenlogger.sdk\""
+    },
+    {
+      "filePath": "\/Users\/sergio\/Workspace\/grendowdev-platforms\/grenlogger\/sdks\/ios\/GrenLogger\/Sources\/GrenLogger\/GrenLogger.swift",
+      "kind": "Array",
+      "offset": 2577,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/sergio\/Workspace\/grendowdev-platforms\/grenlogger\/sdks\/ios\/GrenLogger\/Sources\/GrenLogger\/GrenLogger.swift",
+      "kind": "BooleanLiteral",
+      "offset": 3186,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/sergio\/Workspace\/grendowdev-platforms\/grenlogger\/sdks\/ios\/GrenLogger\/Sources\/GrenLogger\/Internal\/ConfigManager.swift",
+      "kind": "Array",
+      "offset": 753,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/sergio\/Workspace\/grendowdev-platforms\/grenlogger\/sdks\/ios\/GrenLogger\/Sources\/GrenLogger\/Internal\/ConfigManager.swift",
+      "kind": "BooleanLiteral",
+      "offset": 793,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/sergio\/Workspace\/grendowdev-platforms\/grenlogger\/sdks\/ios\/GrenLogger\/Sources\/GrenLogger\/Internal\/ConfigManager.swift",
+      "kind": "BooleanLiteral",
+      "offset": 903,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/sergio\/Workspace\/grendowdev-platforms\/grenlogger\/sdks\/ios\/GrenLogger\/Sources\/GrenLogger\/Internal\/ConfigManager.swift",
+      "kind": "Array",
+      "offset": 974,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/sergio\/Workspace\/grendowdev-platforms\/grenlogger\/sdks\/ios\/GrenLogger\/Sources\/GrenLogger\/Internal\/ConfigManager.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1284,
+      "length": 2,
+      "value": "30"
+    },
+    {
+      "filePath": "\/Users\/sergio\/Workspace\/grendowdev-platforms\/grenlogger\/sdks\/ios\/GrenLogger\/Sources\/GrenLogger\/Internal\/ConfigManager.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1331,
+      "length": 2,
+      "value": "60"
+    },
+    {
+      "filePath": "\/Users\/sergio\/Workspace\/grendowdev-platforms\/grenlogger\/sdks\/ios\/GrenLogger\/Sources\/GrenLogger\/Internal\/Constants.swift",
+      "kind": "StringLiteral",
+      "offset": 201,
+      "length": 28,
+      "value": "\"https:\/\/api.grenlogger.app\""
+    },
+    {
+      "filePath": "\/Users\/sergio\/Workspace\/grendowdev-platforms\/grenlogger\/sdks\/ios\/GrenLogger\/Sources\/GrenLogger\/Internal\/Constants.swift",
+      "kind": "StringLiteral",
+      "offset": 331,
+      "length": 498,
+      "value": "\"-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAymFtm97c8+zaXbwuyc\/I\nWit3eZXmDEdntQ+oERI6tjLjT61DR25asyo1oc8rG+JDreuQ2ydcS7QSIdcZKmMK\nB5aLZuv2\/fCesqH6zBB0vonJeAtjLbb7Aw4B\/lXIpPtbcW2YblZmVPUyIfAvZQwf\nCBdUW39VIDB2qSMqgAe4DyoMvHY9ZVA9mlb8PoGz702iJ8CsNpMgPfXU0O1Bt4Sc\nKRvnQ6rK\/bE2Ab+\/cJXy5FRTkyrDteS1Amp3aWx92i33uw\/FpvvZOLLz0vmHnIXD\nXOlnpN7ba\/hS5pVdJjdA3wjnv7+hUUog3lCdm4B\/AVx2HcH51rVkJkjaYfEd+4ex\ngQIDAQAB\n-----END PUBLIC KEY-----\""
+    },
+    {
+      "filePath": "\/Users\/sergio\/Workspace\/grendowdev-platforms\/grenlogger\/sdks\/ios\/GrenLogger\/Sources\/GrenLogger\/Internal\/Constants.swift",
+      "kind": "IntegerLiteral",
+      "offset": 939,
+      "length": 2,
+      "value": "10"
+    },
+    {
+      "filePath": "\/Users\/sergio\/Workspace\/grendowdev-platforms\/grenlogger\/sdks\/ios\/GrenLogger\/Sources\/GrenLogger\/Internal\/Constants.swift",
+      "kind": "IntegerLiteral",
+      "offset": 987,
+      "length": 2,
+      "value": "30"
+    },
+    {
+      "filePath": "\/Users\/sergio\/Workspace\/grendowdev-platforms\/grenlogger\/sdks\/ios\/GrenLogger\/Sources\/GrenLogger\/Internal\/Constants.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1018,
+      "length": 1,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/sergio\/Workspace\/grendowdev-platforms\/grenlogger\/sdks\/ios\/GrenLogger\/Sources\/GrenLogger\/Internal\/Constants.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1058,
+      "length": 1,
+      "value": "7"
+    },
+    {
+      "filePath": "\/Users\/sergio\/Workspace\/grendowdev-platforms\/grenlogger\/sdks\/ios\/GrenLogger\/Sources\/GrenLogger\/Internal\/Constants.swift",
+      "kind": "StringLiteral",
+      "offset": 1088,
+      "length": 7,
+      "value": "\"1.0.4\""
+    },
+    {
+      "filePath": "\/Users\/sergio\/Workspace\/grendowdev-platforms\/grenlogger\/sdks\/ios\/GrenLogger\/Sources\/GrenLogger\/Internal\/Constants.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1186,
+      "length": 1,
+      "value": "5"
+    },
+    {
+      "filePath": "\/Users\/sergio\/Workspace\/grendowdev-platforms\/grenlogger\/sdks\/ios\/GrenLogger\/Sources\/GrenLogger\/Internal\/Constants.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1190,
+      "length": 2,
+      "value": "60"
+    },
+    {
+      "filePath": "\/Users\/sergio\/Workspace\/grendowdev-platforms\/grenlogger\/sdks\/ios\/GrenLogger\/Sources\/GrenLogger\/Internal\/Constants.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1261,
+      "length": 2,
+      "value": "10"
+    },
+    {
+      "filePath": "\/Users\/sergio\/Workspace\/grendowdev-platforms\/grenlogger\/sdks\/ios\/GrenLogger\/Sources\/GrenLogger\/Internal\/Constants.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1266,
+      "length": 2,
+      "value": "60"
+    },
+    {
+      "filePath": "\/Users\/sergio\/Workspace\/grendowdev-platforms\/grenlogger\/sdks\/ios\/GrenLogger\/Sources\/GrenLogger\/Internal\/Constants.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1317,
+      "length": 4,
+      "value": "1000"
+    },
+    {
+      "filePath": "\/Users\/sergio\/Workspace\/grendowdev-platforms\/grenlogger\/sdks\/ios\/GrenLogger\/Sources\/GrenLogger\/Internal\/Constants.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1358,
+      "length": 2,
+      "value": "50"
+    },
+    {
+      "filePath": "\/Users\/sergio\/Workspace\/grendowdev-platforms\/grenlogger\/sdks\/ios\/GrenLogger\/Sources\/GrenLogger\/Internal\/Constants.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1420,
+      "length": 1,
+      "value": "5"
+    },
+    {
+      "filePath": "\/Users\/sergio\/Workspace\/grendowdev-platforms\/grenlogger\/sdks\/ios\/GrenLogger\/Sources\/GrenLogger\/Internal\/OfflineManager.swift",
+      "kind": "BooleanLiteral",
+      "offset": 242,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/sergio\/Workspace\/grendowdev-platforms\/grenlogger\/sdks\/ios\/GrenLogger\/Sources\/GrenLogger\/Internal\/PersistenceManager.swift",
+      "kind": "StringLiteral",
+      "offset": 172,
+      "length": 22,
+      "value": "\"grenlogger_log_queue\""
+    },
+    {
+      "filePath": "\/Users\/sergio\/Workspace\/grendowdev-platforms\/grenlogger\/sdks\/ios\/GrenLogger\/Sources\/GrenLogger\/Internal\/SSLPinningHandler.swift",
+      "kind": "Array",
+      "offset": 368,
+      "length": 2,
+      "value": "[]"
+    }
+  ]
+}
