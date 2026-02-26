@@ -10,47 +10,47 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		mvftnwO8orNlDVGn8Vl7wh1FmOU=
+		+tYC5ZBMaNyckJtZkN4ub6ipNwQ=
 		</data>
 		<key>Modules/GrenLogger.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		faRN/FIhD3DhFucnAhbfjg3fsAs=
+		JgK1O45qej+Y8RLEjW/fBBGMc2g=
 		</data>
 		<key>Modules/GrenLogger.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		CDp8+FUbyYd0AEi3myUxJArzKhk=
+		dIplmVtBITUPNZ5Wqhi2dMCaXIs=
 		</data>
 		<key>Modules/GrenLogger.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		dAYAzJvOLBLXcgyNZgq4mmwFGVc=
+		H7zkdb77X7zYPJb3iveJyLBOexw=
 		</data>
 		<key>Modules/GrenLogger.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		CDp8+FUbyYd0AEi3myUxJArzKhk=
+		dIplmVtBITUPNZ5Wqhi2dMCaXIs=
 		</data>
 		<key>Modules/GrenLogger.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		jEqq+piHkDcqyyyIe0daJt6agSw=
+		8O2rQj6/UxwP6TijXElzNRuSuVM=
 		</data>
 		<key>Modules/GrenLogger.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		faRN/FIhD3DhFucnAhbfjg3fsAs=
+		JgK1O45qej+Y8RLEjW/fBBGMc2g=
 		</data>
 		<key>Modules/GrenLogger.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		FokN4m8h8QVb2YvT4Z9dMe0Xv6s=
+		1PvLl7xPkzJTeJBl2/3GDF+IabM=
 		</data>
 		<key>Modules/GrenLogger.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		TYfTbR5xpdjA2ZItI7zf2ksGtG8=
+		pZd781H9np1tD6sXPfbPVOEEVrk=
 		</data>
 		<key>Modules/GrenLogger.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		FokN4m8h8QVb2YvT4Z9dMe0Xv6s=
+		1PvLl7xPkzJTeJBl2/3GDF+IabM=
 		</data>
 		<key>Modules/GrenLogger.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		m8j72LBID5ZVIwwvjCXecPKV6UM=
+		jaNZFVpNnl3rJZzfO5fKsrhTxNU=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -70,70 +70,70 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			LFyps/7hUsbHnxofQCR/dgrnifOGh9ULdW3iYIbwnFA=
+			/j8yJSn5E446s309i3kKSeHn2scaiDYW5Bbi4CKhbJU=
 			</data>
 		</dict>
 		<key>Modules/GrenLogger.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			2ZJCJDf95P/0YIcUb4i9CEtqOKBdbpGfkKbW0niCTNw=
+			t1S31DBw1LjIkftus8DcRp2ajcGeC6g+GJMhjnS37JQ=
 			</data>
 		</dict>
 		<key>Modules/GrenLogger.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			iG04Vy58+aT2I2X/rbF+qtuPsJbu5RO5CxHTDoP5b34=
+			LmN611uBBdXpIF+KJdMrqkL8us/GQvQOFYnvwGq3bRM=
 			</data>
 		</dict>
 		<key>Modules/GrenLogger.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			2ZJCJDf95P/0YIcUb4i9CEtqOKBdbpGfkKbW0niCTNw=
+			t1S31DBw1LjIkftus8DcRp2ajcGeC6g+GJMhjnS37JQ=
 			</data>
 		</dict>
 		<key>Modules/GrenLogger.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			pMF77ZOSM4GRV2mlfo1JE5BGbnT159VG+iNXLYEFRRE=
+			aPOR4mWlP6Y5EeFpePCkwZZldeCQVTYzIjk+L0Nj8Eg=
 			</data>
 		</dict>
 		<key>Modules/GrenLogger.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			LFyps/7hUsbHnxofQCR/dgrnifOGh9ULdW3iYIbwnFA=
+			/j8yJSn5E446s309i3kKSeHn2scaiDYW5Bbi4CKhbJU=
 			</data>
 		</dict>
 		<key>Modules/GrenLogger.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			zDKbwvV31C+8Xv3lfg1SNYz0fnwpu3atmcjdBpEtgRM=
+			7vs/uwEbVS9rPWUG6N33MwnVLnhRcccsyIWlIUT5MDA=
 			</data>
 		</dict>
 		<key>Modules/GrenLogger.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			e5Y5EtnT55h/f+Pt5iG0WUJ93gjrLa1kAc/GBFtZP1M=
+			EhAHXwzNPfJrlY2erX0soqqVf6trzlUzs2On/yACSVE=
 			</data>
 		</dict>
 		<key>Modules/GrenLogger.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			zDKbwvV31C+8Xv3lfg1SNYz0fnwpu3atmcjdBpEtgRM=
+			7vs/uwEbVS9rPWUG6N33MwnVLnhRcccsyIWlIUT5MDA=
 			</data>
 		</dict>
 		<key>Modules/GrenLogger.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Tu+Y4Q7M7Y7eM11cQf4IM3FtHgkISsDhYSCrqyX2QWU=
+			ApuItxg4Q8lMpdFZZHsWJLrcuiqdDCHz1zCzaXJN7UA=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

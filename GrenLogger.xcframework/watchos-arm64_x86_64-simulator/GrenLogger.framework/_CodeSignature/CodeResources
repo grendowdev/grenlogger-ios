@@ -10,47 +10,47 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		Cvg/8RFNsnFI44DSjnkQLPSWwh0=
+		01GlPCOLPKOrQLa/xF4CVBhTnvg=
 		</data>
 		<key>Modules/GrenLogger.swiftmodule/arm64-apple-watchos-simulator.abi.json</key>
 		<data>
-		faRN/FIhD3DhFucnAhbfjg3fsAs=
+		JgK1O45qej+Y8RLEjW/fBBGMc2g=
 		</data>
 		<key>Modules/GrenLogger.swiftmodule/arm64-apple-watchos-simulator.private.swiftinterface</key>
 		<data>
-		FKsrr/zOfZfGmg1BJ8MhE3XdmOs=
+		Xgkk44CCs05k3sb6ZsDHMjv7XKM=
 		</data>
 		<key>Modules/GrenLogger.swiftmodule/arm64-apple-watchos-simulator.swiftdoc</key>
 		<data>
-		tTYsOoOYCcywnxWqvmPoIETH64k=
+		wY1VrE4iIujAW1CpJ19KTorEQkU=
 		</data>
 		<key>Modules/GrenLogger.swiftmodule/arm64-apple-watchos-simulator.swiftinterface</key>
 		<data>
-		FKsrr/zOfZfGmg1BJ8MhE3XdmOs=
+		Xgkk44CCs05k3sb6ZsDHMjv7XKM=
 		</data>
 		<key>Modules/GrenLogger.swiftmodule/arm64-apple-watchos-simulator.swiftmodule</key>
 		<data>
-		NnEvvH1pHbdfwuAMaFw7gQmFVTM=
+		9Tna+lktTAYNXYRtYK2pz602Q4w=
 		</data>
 		<key>Modules/GrenLogger.swiftmodule/x86_64-apple-watchos-simulator.abi.json</key>
 		<data>
-		faRN/FIhD3DhFucnAhbfjg3fsAs=
+		JgK1O45qej+Y8RLEjW/fBBGMc2g=
 		</data>
 		<key>Modules/GrenLogger.swiftmodule/x86_64-apple-watchos-simulator.private.swiftinterface</key>
 		<data>
-		cgZO8gMZ5D396B36JZgccnLxMQ8=
+		i04aQTEjvWnm94SHLopqharRwb0=
 		</data>
 		<key>Modules/GrenLogger.swiftmodule/x86_64-apple-watchos-simulator.swiftdoc</key>
 		<data>
-		ZHTuy9PNQCa5U+3R1rg7X5mv7yU=
+		u/K1ICiDue2qAnj9nxFwkPyVp7E=
 		</data>
 		<key>Modules/GrenLogger.swiftmodule/x86_64-apple-watchos-simulator.swiftinterface</key>
 		<data>
-		cgZO8gMZ5D396B36JZgccnLxMQ8=
+		i04aQTEjvWnm94SHLopqharRwb0=
 		</data>
 		<key>Modules/GrenLogger.swiftmodule/x86_64-apple-watchos-simulator.swiftmodule</key>
 		<data>
-		hdRjoA+QTNyWe5Fijf7RhZ5VgpI=
+		C09xks3TU5hDrrBw5pC/H+ZwX/g=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -70,70 +70,70 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			LFyps/7hUsbHnxofQCR/dgrnifOGh9ULdW3iYIbwnFA=
+			/j8yJSn5E446s309i3kKSeHn2scaiDYW5Bbi4CKhbJU=
 			</data>
 		</dict>
 		<key>Modules/GrenLogger.swiftmodule/arm64-apple-watchos-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			esCIZqU6NnhRVmicUMXKQ1gAfkRdhg2FWZR9w1qJCio=
+			voReNqnlyQcsDd0Sh5Wo+BXphSKwYRtElCppOzUKQaY=
 			</data>
 		</dict>
 		<key>Modules/GrenLogger.swiftmodule/arm64-apple-watchos-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			mzJeKKWjKbabwNJ7aEZBO93LAUKA2yry5XkTQraIQ8M=
+			4SxPYWTlvFh0QSfCpLd2sjkb3PsP5A9ytVYAAplxgAw=
 			</data>
 		</dict>
 		<key>Modules/GrenLogger.swiftmodule/arm64-apple-watchos-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			esCIZqU6NnhRVmicUMXKQ1gAfkRdhg2FWZR9w1qJCio=
+			voReNqnlyQcsDd0Sh5Wo+BXphSKwYRtElCppOzUKQaY=
 			</data>
 		</dict>
 		<key>Modules/GrenLogger.swiftmodule/arm64-apple-watchos-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			tkGuvuudeCBbErJmAL2EZi6dVTQaSDIZG/o4DBXXwAs=
+			rWGZ5tuFeKqg/xcHS64s9i+atUdNZBwB4wk1eCAFNbg=
 			</data>
 		</dict>
 		<key>Modules/GrenLogger.swiftmodule/x86_64-apple-watchos-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			LFyps/7hUsbHnxofQCR/dgrnifOGh9ULdW3iYIbwnFA=
+			/j8yJSn5E446s309i3kKSeHn2scaiDYW5Bbi4CKhbJU=
 			</data>
 		</dict>
 		<key>Modules/GrenLogger.swiftmodule/x86_64-apple-watchos-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ruEcyJQPZ1kSP8oRSn1pO7F9vb1Dl4GPrz7GWTijj68=
+			nq8x+txpXJtQKCtn2AYSp8EQeMky5wrLZZcUBU67p/k=
 			</data>
 		</dict>
 		<key>Modules/GrenLogger.swiftmodule/x86_64-apple-watchos-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ta9gaXl1JkLe2LFjca/B1OzAONeP/VeLlt79JZ8K464=
+			r7Tr8OgRAahzipJbGTV0L/a1ZwelWE4nUq/UYcfipHc=
 			</data>
 		</dict>
 		<key>Modules/GrenLogger.swiftmodule/x86_64-apple-watchos-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ruEcyJQPZ1kSP8oRSn1pO7F9vb1Dl4GPrz7GWTijj68=
+			nq8x+txpXJtQKCtn2AYSp8EQeMky5wrLZZcUBU67p/k=
 			</data>
 		</dict>
 		<key>Modules/GrenLogger.swiftmodule/x86_64-apple-watchos-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			yQpb6v8fa9DKMU9EauE7wMAZS/lPirFke0VBpgIyDVo=
+			/2lcuOuIXyoO12mBRmatRdTP8Sk7gziCWLym42dp7T0=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

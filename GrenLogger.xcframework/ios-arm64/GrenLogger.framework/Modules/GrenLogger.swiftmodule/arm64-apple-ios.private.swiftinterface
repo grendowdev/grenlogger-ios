@@ -27,7 +27,7 @@ import os
     }
   }
   #if compiler(>=5.3) && $NonescapableTypes
-  public static func initialize(apiKey: Swift.String, userId: Swift.String? = nil, collect: Swift.Bool = true)
+  public static func initialize(apiKey: Swift.String, userId: Swift.String? = nil, remote: Swift.Bool = true, local: Swift.Bool = true)
   #endif
   #if compiler(>=5.3) && $NonescapableTypes
   public static func debug(_ message: Swift.String, metadata: [Swift.String : Any]? = nil, file: Swift.String = #file, function: Swift.String = #function, line: Swift.Int = #line)

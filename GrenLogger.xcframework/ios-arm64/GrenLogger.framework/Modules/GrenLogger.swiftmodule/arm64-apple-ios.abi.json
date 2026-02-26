@@ -13,8 +13,8 @@
       },
       {
         "kind": "Import",
-        "name": "os.log",
-        "printedName": "os.log",
+        "name": "os",
+        "printedName": "os",
         "declKind": "Import",
         "moduleName": "GrenLogger"
       },
@@ -358,7 +358,7 @@
           {
             "kind": "Function",
             "name": "initialize",
-            "printedName": "initialize(apiKey:userId:collect:)",
+            "printedName": "initialize(apiKey:userId:remote:local:)",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -392,11 +392,18 @@
                 "printedName": "Swift.Bool",
                 "hasDefaultArg": true,
                 "usr": "s:Sb"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "hasDefaultArg": true,
+                "usr": "s:Sb"
               }
             ],
             "declKind": "Func",
-            "usr": "s:10GrenLoggerAAC10initialize6apiKey6userId7collectySS_SSSgSbtFZ",
-            "mangledName": "$s10GrenLoggerAAC10initialize6apiKey6userId7collectySS_SSSgSbtFZ",
+            "usr": "s:10GrenLoggerAAC10initialize6apiKey6userId6remote5localySS_SSSgS2btFZ",
+            "mangledName": "$s10GrenLoggerAAC10initialize6apiKey6userId6remote5localySS_SSSgS2btFZ",
             "moduleName": "GrenLogger",
             "static": true,
             "declAttributes": [
@@ -1094,79 +1101,100 @@
     {
       "filePath": "\/Users\/sergio\/Workspace\/grendowdev-platforms\/grenlogger\/sdks\/ios\/GrenLogger\/Sources\/GrenLogger\/GrenLogger.swift",
       "kind": "StringLiteral",
-      "offset": 1383,
+      "offset": 1414,
       "length": 7,
       "value": "\"DEBUG\""
     },
     {
       "filePath": "\/Users\/sergio\/Workspace\/grendowdev-platforms\/grenlogger\/sdks\/ios\/GrenLogger\/Sources\/GrenLogger\/GrenLogger.swift",
       "kind": "StringLiteral",
-      "offset": 1411,
+      "offset": 1442,
       "length": 6,
       "value": "\"INFO\""
     },
     {
       "filePath": "\/Users\/sergio\/Workspace\/grendowdev-platforms\/grenlogger\/sdks\/ios\/GrenLogger\/Sources\/GrenLogger\/GrenLogger.swift",
       "kind": "StringLiteral",
-      "offset": 1441,
+      "offset": 1472,
       "length": 9,
       "value": "\"WARNING\""
     },
     {
       "filePath": "\/Users\/sergio\/Workspace\/grendowdev-platforms\/grenlogger\/sdks\/ios\/GrenLogger\/Sources\/GrenLogger\/GrenLogger.swift",
       "kind": "StringLiteral",
-      "offset": 1472,
+      "offset": 1503,
       "length": 7,
       "value": "\"ERROR\""
     },
     {
       "filePath": "\/Users\/sergio\/Workspace\/grendowdev-platforms\/grenlogger\/sdks\/ios\/GrenLogger\/Sources\/GrenLogger\/GrenLogger.swift",
       "kind": "StringLiteral",
-      "offset": 1501,
+      "offset": 1532,
       "length": 7,
       "value": "\"FATAL\""
     },
     {
       "filePath": "\/Users\/sergio\/Workspace\/grendowdev-platforms\/grenlogger\/sdks\/ios\/GrenLogger\/Sources\/GrenLogger\/GrenLogger.swift",
       "kind": "BooleanLiteral",
-      "offset": 1740,
+      "offset": 1770,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/sergio\/Workspace\/grendowdev-platforms\/grenlogger\/sdks\/ios\/GrenLogger\/Sources\/GrenLogger\/GrenLogger.swift",
       "kind": "BooleanLiteral",
-      "offset": 1857,
+      "offset": 1805,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/sergio\/Workspace\/grendowdev-platforms\/grenlogger\/sdks\/ios\/GrenLogger\/Sources\/GrenLogger\/GrenLogger.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1922,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/sergio\/Workspace\/grendowdev-platforms\/grenlogger\/sdks\/ios\/GrenLogger\/Sources\/GrenLogger\/GrenLogger.swift",
       "kind": "BooleanLiteral",
-      "offset": 1892,
+      "offset": 1957,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/sergio\/Workspace\/grendowdev-platforms\/grenlogger\/sdks\/ios\/GrenLogger\/Sources\/GrenLogger\/GrenLogger.swift",
       "kind": "StringLiteral",
-      "offset": 1982,
+      "offset": 2047,
       "length": 20,
       "value": "\"app.grenlogger.sdk\""
     },
     {
       "filePath": "\/Users\/sergio\/Workspace\/grendowdev-platforms\/grenlogger\/sdks\/ios\/GrenLogger\/Sources\/GrenLogger\/GrenLogger.swift",
       "kind": "Array",
-      "offset": 2577,
+      "offset": 2642,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/sergio\/Workspace\/grendowdev-platforms\/grenlogger\/sdks\/ios\/GrenLogger\/Sources\/GrenLogger\/GrenLogger.swift",
       "kind": "BooleanLiteral",
-      "offset": 3186,
+      "offset": 3323,
       "length": 4,
       "value": "true"
+    },
+    {
+      "filePath": "\/Users\/sergio\/Workspace\/grendowdev-platforms\/grenlogger\/sdks\/ios\/GrenLogger\/Sources\/GrenLogger\/GrenLogger.swift",
+      "kind": "BooleanLiteral",
+      "offset": 3343,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/sergio\/Workspace\/grendowdev-platforms\/grenlogger\/sdks\/ios\/GrenLogger\/Sources\/GrenLogger\/GrenLogger.swift",
+      "kind": "BooleanLiteral",
+      "offset": 19067,
+      "length": 5,
+      "value": "false"
     },
     {
       "filePath": "\/Users\/sergio\/Workspace\/grendowdev-platforms\/grenlogger\/sdks\/ios\/GrenLogger\/Sources\/GrenLogger\/Internal\/ConfigManager.swift",

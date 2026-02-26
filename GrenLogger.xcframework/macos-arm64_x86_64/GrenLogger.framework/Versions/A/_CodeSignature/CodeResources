@@ -6,7 +6,7 @@
 	<dict>
 		<key>Resources/Info.plist</key>
 		<data>
-		2NrsEy942kOGUONVasXUnPlFE0w=
+		0o/gx3Mb6Wv8DtCsYJw9yySdkcg=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -22,70 +22,70 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			s6yaKXwcmo/xxxfY+SOohT0Vd2FgWMUIyKKKx9K7qDc=
+			+ARWbPf3Rgc4vMsCNCpuffJ2MNHQ+xvn7G2MRmpPLjA=
 			</data>
 		</dict>
 		<key>Modules/GrenLogger.swiftmodule/arm64-apple-macos.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ogfuifoDLj7VDYuHn/CSkQgMjE1dNrf1P457OodXJw0=
+			6iugCHQrtPQ6QY2B3Cqe7zAypSOMdVJZa2pIBocU0yU=
 			</data>
 		</dict>
 		<key>Modules/GrenLogger.swiftmodule/arm64-apple-macos.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			t3V1cVUFLOUrBuYqZSAKcovqO0Q/KerAWmw/8uGVeg8=
+			rSAfkgeU3hIKu2cIw6zjzlW4Tm0rQFU/GWY2Q+XiIf4=
 			</data>
 		</dict>
 		<key>Modules/GrenLogger.swiftmodule/arm64-apple-macos.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ogfuifoDLj7VDYuHn/CSkQgMjE1dNrf1P457OodXJw0=
+			6iugCHQrtPQ6QY2B3Cqe7zAypSOMdVJZa2pIBocU0yU=
 			</data>
 		</dict>
 		<key>Modules/GrenLogger.swiftmodule/arm64-apple-macos.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			wB867ONzu7+oDn93HAcP23huT9/2KAEaEWWTKtiH32g=
+			pGipm2tplYfKRAh1/1rfv0Q2dSoGegXjmz6IbSIyKO8=
 			</data>
 		</dict>
 		<key>Modules/GrenLogger.swiftmodule/x86_64-apple-macos.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			s6yaKXwcmo/xxxfY+SOohT0Vd2FgWMUIyKKKx9K7qDc=
+			+ARWbPf3Rgc4vMsCNCpuffJ2MNHQ+xvn7G2MRmpPLjA=
 			</data>
 		</dict>
 		<key>Modules/GrenLogger.swiftmodule/x86_64-apple-macos.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			qohMW+gn4GnszIur3Ft0KSVkfPSbCTUD65/QylBLt8A=
+			4TdDOO4KELdUbtjbuNevsXVrdQC3Im3Ivs4TaZ4uygE=
 			</data>
 		</dict>
 		<key>Modules/GrenLogger.swiftmodule/x86_64-apple-macos.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			aMu8yvixj9djZjDFwHL7n36rHCTSlO75U8S5MZ9esD4=
+			qUACVt/W5LmX3/jkgJONHwpDQhR0iUKC6XpyCOeZZqc=
 			</data>
 		</dict>
 		<key>Modules/GrenLogger.swiftmodule/x86_64-apple-macos.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			qohMW+gn4GnszIur3Ft0KSVkfPSbCTUD65/QylBLt8A=
+			4TdDOO4KELdUbtjbuNevsXVrdQC3Im3Ivs4TaZ4uygE=
 			</data>
 		</dict>
 		<key>Modules/GrenLogger.swiftmodule/x86_64-apple-macos.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			CEi1PJ/21ZUsu0j7Plldc3PxucBRzwSlSf6CzDK/1LA=
+			QWYacI6U0520wj/cDZBsiFv7dxSwGFNx2xDLSsWPzV4=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -99,7 +99,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			bQxAj8tOCgr8n50ocTcBS80pxJKKQ4RkiDsMd498/Ag=
+			7CNMzYySJCV+H8o5M1x90BL/1PIQ339GOlOsOrnuAk0=
 			</data>
 		</dict>
 	</dict>

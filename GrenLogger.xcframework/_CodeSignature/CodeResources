@@ -6,7 +6,7 @@
 	<dict>
 		<key>ios-arm64/GrenLogger.framework/GrenLogger</key>
 		<data>
-		ciP6HyKBqiQMgusYA0fMDIEnbuM=
+		OYFXyK8Z6GgusRSp/dvtDdq25PY=
 		</data>
 		<key>ios-arm64/GrenLogger.framework/Headers/GrenLogger-Swift.h</key>
 		<data>
@@ -14,23 +14,23 @@
 		</data>
 		<key>ios-arm64/GrenLogger.framework/Info.plist</key>
 		<data>
-		bqejCf9KWaU4EyniMy0n9YuIaa4=
+		CrDpHqbn4zego4zpM7Xk2ytnUYU=
 		</data>
 		<key>ios-arm64/GrenLogger.framework/Modules/GrenLogger.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		faRN/FIhD3DhFucnAhbfjg3fsAs=
+		JgK1O45qej+Y8RLEjW/fBBGMc2g=
 		</data>
 		<key>ios-arm64/GrenLogger.framework/Modules/GrenLogger.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		Iiyn85rofwylcSsuIn2LwdrrafQ=
+		Q2RXaxM16QJwWKET9dVz6Ch2X3A=
 		</data>
 		<key>ios-arm64/GrenLogger.framework/Modules/GrenLogger.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		qkncG58rkS+2NHqvYSC2x/oRZ88=
+		QjrzlhyXuLFz5E63unVrruR/BBw=
 		</data>
 		<key>ios-arm64/GrenLogger.framework/Modules/GrenLogger.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		Iiyn85rofwylcSsuIn2LwdrrafQ=
+		Q2RXaxM16QJwWKET9dVz6Ch2X3A=
 		</data>
 		<key>ios-arm64/GrenLogger.framework/Modules/module.modulemap</key>
 		<data>
@@ -38,7 +38,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/GrenLogger.framework/GrenLogger</key>
 		<data>
-		xEHqvwVd2lYntnRlO2jBb9zFE6U=
+		9JPE+qavNXiBrM126DuPZDJYgBA=
 		</data>
 		<key>ios-arm64_x86_64-simulator/GrenLogger.framework/Headers/GrenLogger-Swift.h</key>
 		<data>
@@ -46,39 +46,39 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/GrenLogger.framework/Info.plist</key>
 		<data>
-		mvftnwO8orNlDVGn8Vl7wh1FmOU=
+		+tYC5ZBMaNyckJtZkN4ub6ipNwQ=
 		</data>
 		<key>ios-arm64_x86_64-simulator/GrenLogger.framework/Modules/GrenLogger.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		faRN/FIhD3DhFucnAhbfjg3fsAs=
+		JgK1O45qej+Y8RLEjW/fBBGMc2g=
 		</data>
 		<key>ios-arm64_x86_64-simulator/GrenLogger.framework/Modules/GrenLogger.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		CDp8+FUbyYd0AEi3myUxJArzKhk=
+		dIplmVtBITUPNZ5Wqhi2dMCaXIs=
 		</data>
 		<key>ios-arm64_x86_64-simulator/GrenLogger.framework/Modules/GrenLogger.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		dAYAzJvOLBLXcgyNZgq4mmwFGVc=
+		H7zkdb77X7zYPJb3iveJyLBOexw=
 		</data>
 		<key>ios-arm64_x86_64-simulator/GrenLogger.framework/Modules/GrenLogger.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		CDp8+FUbyYd0AEi3myUxJArzKhk=
+		dIplmVtBITUPNZ5Wqhi2dMCaXIs=
 		</data>
 		<key>ios-arm64_x86_64-simulator/GrenLogger.framework/Modules/GrenLogger.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		faRN/FIhD3DhFucnAhbfjg3fsAs=
+		JgK1O45qej+Y8RLEjW/fBBGMc2g=
 		</data>
 		<key>ios-arm64_x86_64-simulator/GrenLogger.framework/Modules/GrenLogger.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		FokN4m8h8QVb2YvT4Z9dMe0Xv6s=
+		1PvLl7xPkzJTeJBl2/3GDF+IabM=
 		</data>
 		<key>ios-arm64_x86_64-simulator/GrenLogger.framework/Modules/GrenLogger.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		TYfTbR5xpdjA2ZItI7zf2ksGtG8=
+		pZd781H9np1tD6sXPfbPVOEEVrk=
 		</data>
 		<key>ios-arm64_x86_64-simulator/GrenLogger.framework/Modules/GrenLogger.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		FokN4m8h8QVb2YvT4Z9dMe0Xv6s=
+		1PvLl7xPkzJTeJBl2/3GDF+IabM=
 		</data>
 		<key>ios-arm64_x86_64-simulator/GrenLogger.framework/Modules/module.modulemap</key>
 		<data>
@@ -86,11 +86,11 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/GrenLogger.framework/_CodeSignature/CodeResources</key>
 		<data>
-		SvEy7VnUCy8PbpkyfSKH1vCGM+k=
+		yZTlpy9ovZOJnH+DwP5K84bjvcw=
 		</data>
 		<key>macos-arm64_x86_64/GrenLogger.framework/Versions/A/GrenLogger</key>
 		<data>
-		AlsJUdQecoQFNFg/CxwBv9cJPns=
+		jNgd9l48fTTA5vVoMJS03xcNupk=
 		</data>
 		<key>macos-arm64_x86_64/GrenLogger.framework/Versions/A/Headers/GrenLogger-Swift.h</key>
 		<data>
@@ -98,35 +98,35 @@
 		</data>
 		<key>macos-arm64_x86_64/GrenLogger.framework/Versions/A/Modules/GrenLogger.swiftmodule/arm64-apple-macos.abi.json</key>
 		<data>
-		RJPh0FgQyzR1F6CFFZ/IOtodaag=
+		E6ZHzMc+xZpxkrLvqHuMeE19u14=
 		</data>
 		<key>macos-arm64_x86_64/GrenLogger.framework/Versions/A/Modules/GrenLogger.swiftmodule/arm64-apple-macos.private.swiftinterface</key>
 		<data>
-		bRaLEzB62aQ1U+DTXwdHiZUAJfU=
+		AXVohbTI7y9TJx03WK8fYnX7eI0=
 		</data>
 		<key>macos-arm64_x86_64/GrenLogger.framework/Versions/A/Modules/GrenLogger.swiftmodule/arm64-apple-macos.swiftdoc</key>
 		<data>
-		QKwqFSJTD3oJmGHNw9KPYdX19gE=
+		SSlLCvPjWPvxV8WfS1C5aKzHOuE=
 		</data>
 		<key>macos-arm64_x86_64/GrenLogger.framework/Versions/A/Modules/GrenLogger.swiftmodule/arm64-apple-macos.swiftinterface</key>
 		<data>
-		bRaLEzB62aQ1U+DTXwdHiZUAJfU=
+		AXVohbTI7y9TJx03WK8fYnX7eI0=
 		</data>
 		<key>macos-arm64_x86_64/GrenLogger.framework/Versions/A/Modules/GrenLogger.swiftmodule/x86_64-apple-macos.abi.json</key>
 		<data>
-		RJPh0FgQyzR1F6CFFZ/IOtodaag=
+		E6ZHzMc+xZpxkrLvqHuMeE19u14=
 		</data>
 		<key>macos-arm64_x86_64/GrenLogger.framework/Versions/A/Modules/GrenLogger.swiftmodule/x86_64-apple-macos.private.swiftinterface</key>
 		<data>
-		YfCwMz5VR+wD9swMSNrpQlT1dhs=
+		JOw3TkFL7XSVGneO6uAbY2BXyGc=
 		</data>
 		<key>macos-arm64_x86_64/GrenLogger.framework/Versions/A/Modules/GrenLogger.swiftmodule/x86_64-apple-macos.swiftdoc</key>
 		<data>
-		ogK9hFHfbMxDSCZ2HxAKbHRgMEI=
+		AnUaft7RkeqVglTTSLEN6Dom3Fw=
 		</data>
 		<key>macos-arm64_x86_64/GrenLogger.framework/Versions/A/Modules/GrenLogger.swiftmodule/x86_64-apple-macos.swiftinterface</key>
 		<data>
-		YfCwMz5VR+wD9swMSNrpQlT1dhs=
+		JOw3TkFL7XSVGneO6uAbY2BXyGc=
 		</data>
 		<key>macos-arm64_x86_64/GrenLogger.framework/Versions/A/Modules/module.modulemap</key>
 		<data>
@@ -134,15 +134,15 @@
 		</data>
 		<key>macos-arm64_x86_64/GrenLogger.framework/Versions/A/Resources/Info.plist</key>
 		<data>
-		2NrsEy942kOGUONVasXUnPlFE0w=
+		0o/gx3Mb6Wv8DtCsYJw9yySdkcg=
 		</data>
 		<key>macos-arm64_x86_64/GrenLogger.framework/Versions/A/_CodeSignature/CodeResources</key>
 		<data>
-		q7R+AfG8/PT3sJdik/w4NeQBD8o=
+		PNzxSPRuX0CSPmSHEV9ksm2UMm4=
 		</data>
 		<key>tvos-arm64/GrenLogger.framework/GrenLogger</key>
 		<data>
-		Q6igEupQfQzbjyB9/Z87Iuizfio=
+		U/jcTzvI4zzMUS3pV74s797ywcA=
 		</data>
 		<key>tvos-arm64/GrenLogger.framework/Headers/GrenLogger-Swift.h</key>
 		<data>
@@ -150,23 +150,23 @@
 		</data>
 		<key>tvos-arm64/GrenLogger.framework/Info.plist</key>
 		<data>
-		ls4gv5/G6DoUh4H5EqWmSHgA4XE=
+		m5p6tSOCqWGt+Odi2yXBpktPkcA=
 		</data>
 		<key>tvos-arm64/GrenLogger.framework/Modules/GrenLogger.swiftmodule/arm64-apple-tvos.abi.json</key>
 		<data>
-		faRN/FIhD3DhFucnAhbfjg3fsAs=
+		JgK1O45qej+Y8RLEjW/fBBGMc2g=
 		</data>
 		<key>tvos-arm64/GrenLogger.framework/Modules/GrenLogger.swiftmodule/arm64-apple-tvos.private.swiftinterface</key>
 		<data>
-		Pg26GUf8rNs+AcitFaA67WlxA34=
+		LlVsvpkjru5ixHJL7TEK0he871c=
 		</data>
 		<key>tvos-arm64/GrenLogger.framework/Modules/GrenLogger.swiftmodule/arm64-apple-tvos.swiftdoc</key>
 		<data>
-		igK9ahRbdYuJvfMzQbF0HJHx/hU=
+		wSQxP7XtOCnEVOs7szSnd559O4o=
 		</data>
 		<key>tvos-arm64/GrenLogger.framework/Modules/GrenLogger.swiftmodule/arm64-apple-tvos.swiftinterface</key>
 		<data>
-		Pg26GUf8rNs+AcitFaA67WlxA34=
+		LlVsvpkjru5ixHJL7TEK0he871c=
 		</data>
 		<key>tvos-arm64/GrenLogger.framework/Modules/module.modulemap</key>
 		<data>
@@ -174,7 +174,7 @@
 		</data>
 		<key>tvos-arm64_x86_64-simulator/GrenLogger.framework/GrenLogger</key>
 		<data>
-		abFDD8smK8uy0btUgVAblAsej2w=
+		mqXEFNAysyi4PBh9LZ0TIafbFcg=
 		</data>
 		<key>tvos-arm64_x86_64-simulator/GrenLogger.framework/Headers/GrenLogger-Swift.h</key>
 		<data>
@@ -182,39 +182,39 @@
 		</data>
 		<key>tvos-arm64_x86_64-simulator/GrenLogger.framework/Info.plist</key>
 		<data>
-		/bN5JsM+8mw1yRdE+qAH4X3oIrg=
+		PmwnoPmBrj+faD0NMF7MonWhN0Y=
 		</data>
 		<key>tvos-arm64_x86_64-simulator/GrenLogger.framework/Modules/GrenLogger.swiftmodule/arm64-apple-tvos-simulator.abi.json</key>
 		<data>
-		faRN/FIhD3DhFucnAhbfjg3fsAs=
+		JgK1O45qej+Y8RLEjW/fBBGMc2g=
 		</data>
 		<key>tvos-arm64_x86_64-simulator/GrenLogger.framework/Modules/GrenLogger.swiftmodule/arm64-apple-tvos-simulator.private.swiftinterface</key>
 		<data>
-		WyKHi+IT/V3NXPlycD6lrfQ1UgM=
+		r57HMigWF4CRTCmQaQoWi7Dk3Lo=
 		</data>
 		<key>tvos-arm64_x86_64-simulator/GrenLogger.framework/Modules/GrenLogger.swiftmodule/arm64-apple-tvos-simulator.swiftdoc</key>
 		<data>
-		6TTEqkh91LYxqN76nYSnZ6hARHw=
+		mY44J1foFP3WljV7LWOUGea4iHE=
 		</data>
 		<key>tvos-arm64_x86_64-simulator/GrenLogger.framework/Modules/GrenLogger.swiftmodule/arm64-apple-tvos-simulator.swiftinterface</key>
 		<data>
-		WyKHi+IT/V3NXPlycD6lrfQ1UgM=
+		r57HMigWF4CRTCmQaQoWi7Dk3Lo=
 		</data>
 		<key>tvos-arm64_x86_64-simulator/GrenLogger.framework/Modules/GrenLogger.swiftmodule/x86_64-apple-tvos-simulator.abi.json</key>
 		<data>
-		faRN/FIhD3DhFucnAhbfjg3fsAs=
+		JgK1O45qej+Y8RLEjW/fBBGMc2g=
 		</data>
 		<key>tvos-arm64_x86_64-simulator/GrenLogger.framework/Modules/GrenLogger.swiftmodule/x86_64-apple-tvos-simulator.private.swiftinterface</key>
 		<data>
-		LpdxiQJwoiPUrXmfGGRCCyDr6Kw=
+		MrBfkKtPWVUYjotpJVEJSzb8FV4=
 		</data>
 		<key>tvos-arm64_x86_64-simulator/GrenLogger.framework/Modules/GrenLogger.swiftmodule/x86_64-apple-tvos-simulator.swiftdoc</key>
 		<data>
-		zZLL4HgxSW3mRBTAl6aZ9nmlK1s=
+		ThGezRfln4ZzoNxF2petvd2ZKzk=
 		</data>
 		<key>tvos-arm64_x86_64-simulator/GrenLogger.framework/Modules/GrenLogger.swiftmodule/x86_64-apple-tvos-simulator.swiftinterface</key>
 		<data>
-		LpdxiQJwoiPUrXmfGGRCCyDr6Kw=
+		MrBfkKtPWVUYjotpJVEJSzb8FV4=
 		</data>
 		<key>tvos-arm64_x86_64-simulator/GrenLogger.framework/Modules/module.modulemap</key>
 		<data>
@@ -222,11 +222,11 @@
 		</data>
 		<key>tvos-arm64_x86_64-simulator/GrenLogger.framework/_CodeSignature/CodeResources</key>
 		<data>
-		sY+/VUGBkiUZVRBGfx/AQNNEPq8=
+		eIB5yPFhY5+5Km62pBnS6pQxgUQ=
 		</data>
 		<key>watchos-arm64_arm64_32_armv7k/GrenLogger.framework/GrenLogger</key>
 		<data>
-		ZgBQGaQQv+w1OFfDkJUPFZ7qdmM=
+		XwZ4uAPzpdtWGH+VnSge7WBSVTo=
 		</data>
 		<key>watchos-arm64_arm64_32_armv7k/GrenLogger.framework/Headers/GrenLogger-Swift.h</key>
 		<data>
@@ -234,55 +234,55 @@
 		</data>
 		<key>watchos-arm64_arm64_32_armv7k/GrenLogger.framework/Info.plist</key>
 		<data>
-		Xzrc+5BKhG+bozYHE4OONMSnE+0=
+		sd0sR3jy/0P4wgC3BsPagt1DvY4=
 		</data>
 		<key>watchos-arm64_arm64_32_armv7k/GrenLogger.framework/Modules/GrenLogger.swiftmodule/arm64-apple-watchos.abi.json</key>
 		<data>
-		faRN/FIhD3DhFucnAhbfjg3fsAs=
+		JgK1O45qej+Y8RLEjW/fBBGMc2g=
 		</data>
 		<key>watchos-arm64_arm64_32_armv7k/GrenLogger.framework/Modules/GrenLogger.swiftmodule/arm64-apple-watchos.private.swiftinterface</key>
 		<data>
-		9TwAOIM8tlSNQIPwqsXG9Xj8gD4=
+		MviLyk6YGGYcvXf6kUEEhs4725M=
 		</data>
 		<key>watchos-arm64_arm64_32_armv7k/GrenLogger.framework/Modules/GrenLogger.swiftmodule/arm64-apple-watchos.swiftdoc</key>
 		<data>
-		RIY2HhIleMbymWMKqHKhqS65DtA=
+		jK6NGXwG64qYfB/th/XsjjHjTm4=
 		</data>
 		<key>watchos-arm64_arm64_32_armv7k/GrenLogger.framework/Modules/GrenLogger.swiftmodule/arm64-apple-watchos.swiftinterface</key>
 		<data>
-		9TwAOIM8tlSNQIPwqsXG9Xj8gD4=
+		MviLyk6YGGYcvXf6kUEEhs4725M=
 		</data>
 		<key>watchos-arm64_arm64_32_armv7k/GrenLogger.framework/Modules/GrenLogger.swiftmodule/arm64_32-apple-watchos.abi.json</key>
 		<data>
-		faRN/FIhD3DhFucnAhbfjg3fsAs=
+		JgK1O45qej+Y8RLEjW/fBBGMc2g=
 		</data>
 		<key>watchos-arm64_arm64_32_armv7k/GrenLogger.framework/Modules/GrenLogger.swiftmodule/arm64_32-apple-watchos.private.swiftinterface</key>
 		<data>
-		pP3JmvMiVKRL7B77SxBFNIidW90=
+		ve2fr+2t2gr5wtawfZg/yALeeZY=
 		</data>
 		<key>watchos-arm64_arm64_32_armv7k/GrenLogger.framework/Modules/GrenLogger.swiftmodule/arm64_32-apple-watchos.swiftdoc</key>
 		<data>
-		bnyayahr1GX/uGQLe/WlAMuK7GQ=
+		9EaFS0HBsbzV2wh4wabXUnqVasU=
 		</data>
 		<key>watchos-arm64_arm64_32_armv7k/GrenLogger.framework/Modules/GrenLogger.swiftmodule/arm64_32-apple-watchos.swiftinterface</key>
 		<data>
-		pP3JmvMiVKRL7B77SxBFNIidW90=
+		ve2fr+2t2gr5wtawfZg/yALeeZY=
 		</data>
 		<key>watchos-arm64_arm64_32_armv7k/GrenLogger.framework/Modules/GrenLogger.swiftmodule/armv7k-apple-watchos.abi.json</key>
 		<data>
-		faRN/FIhD3DhFucnAhbfjg3fsAs=
+		JgK1O45qej+Y8RLEjW/fBBGMc2g=
 		</data>
 		<key>watchos-arm64_arm64_32_armv7k/GrenLogger.framework/Modules/GrenLogger.swiftmodule/armv7k-apple-watchos.private.swiftinterface</key>
 		<data>
-		ORVdd96i5u0WCa20YWPfHDh7xpA=
+		9S398HDpuLJfKWnWNP/eYcHBG5M=
 		</data>
 		<key>watchos-arm64_arm64_32_armv7k/GrenLogger.framework/Modules/GrenLogger.swiftmodule/armv7k-apple-watchos.swiftdoc</key>
 		<data>
-		V2l46q164v79zcou2roVQmQBrsI=
+		WHU3o4AL3ZSof8vg2doX0TMo0Nk=
 		</data>
 		<key>watchos-arm64_arm64_32_armv7k/GrenLogger.framework/Modules/GrenLogger.swiftmodule/armv7k-apple-watchos.swiftinterface</key>
 		<data>
-		ORVdd96i5u0WCa20YWPfHDh7xpA=
+		9S398HDpuLJfKWnWNP/eYcHBG5M=
 		</data>
 		<key>watchos-arm64_arm64_32_armv7k/GrenLogger.framework/Modules/module.modulemap</key>
 		<data>
@@ -290,7 +290,7 @@
 		</data>
 		<key>watchos-arm64_x86_64-simulator/GrenLogger.framework/GrenLogger</key>
 		<data>
-		IlgDZCGYpu2jHUc67WWOmI7EBQU=
+		HFWzUEHZoCeBj4nSa8Lv1jILROA=
 		</data>
 		<key>watchos-arm64_x86_64-simulator/GrenLogger.framework/Headers/GrenLogger-Swift.h</key>
 		<data>
@@ -298,39 +298,39 @@
 		</data>
 		<key>watchos-arm64_x86_64-simulator/GrenLogger.framework/Info.plist</key>
 		<data>
-		Cvg/8RFNsnFI44DSjnkQLPSWwh0=
+		01GlPCOLPKOrQLa/xF4CVBhTnvg=
 		</data>
 		<key>watchos-arm64_x86_64-simulator/GrenLogger.framework/Modules/GrenLogger.swiftmodule/arm64-apple-watchos-simulator.abi.json</key>
 		<data>
-		faRN/FIhD3DhFucnAhbfjg3fsAs=
+		JgK1O45qej+Y8RLEjW/fBBGMc2g=
 		</data>
 		<key>watchos-arm64_x86_64-simulator/GrenLogger.framework/Modules/GrenLogger.swiftmodule/arm64-apple-watchos-simulator.private.swiftinterface</key>
 		<data>
-		FKsrr/zOfZfGmg1BJ8MhE3XdmOs=
+		Xgkk44CCs05k3sb6ZsDHMjv7XKM=
 		</data>
 		<key>watchos-arm64_x86_64-simulator/GrenLogger.framework/Modules/GrenLogger.swiftmodule/arm64-apple-watchos-simulator.swiftdoc</key>
 		<data>
-		tTYsOoOYCcywnxWqvmPoIETH64k=
+		wY1VrE4iIujAW1CpJ19KTorEQkU=
 		</data>
 		<key>watchos-arm64_x86_64-simulator/GrenLogger.framework/Modules/GrenLogger.swiftmodule/arm64-apple-watchos-simulator.swiftinterface</key>
 		<data>
-		FKsrr/zOfZfGmg1BJ8MhE3XdmOs=
+		Xgkk44CCs05k3sb6ZsDHMjv7XKM=
 		</data>
 		<key>watchos-arm64_x86_64-simulator/GrenLogger.framework/Modules/GrenLogger.swiftmodule/x86_64-apple-watchos-simulator.abi.json</key>
 		<data>
-		faRN/FIhD3DhFucnAhbfjg3fsAs=
+		JgK1O45qej+Y8RLEjW/fBBGMc2g=
 		</data>
 		<key>watchos-arm64_x86_64-simulator/GrenLogger.framework/Modules/GrenLogger.swiftmodule/x86_64-apple-watchos-simulator.private.swiftinterface</key>
 		<data>
-		cgZO8gMZ5D396B36JZgccnLxMQ8=
+		i04aQTEjvWnm94SHLopqharRwb0=
 		</data>
 		<key>watchos-arm64_x86_64-simulator/GrenLogger.framework/Modules/GrenLogger.swiftmodule/x86_64-apple-watchos-simulator.swiftdoc</key>
 		<data>
-		ZHTuy9PNQCa5U+3R1rg7X5mv7yU=
+		u/K1ICiDue2qAnj9nxFwkPyVp7E=
 		</data>
 		<key>watchos-arm64_x86_64-simulator/GrenLogger.framework/Modules/GrenLogger.swiftmodule/x86_64-apple-watchos-simulator.swiftinterface</key>
 		<data>
-		cgZO8gMZ5D396B36JZgccnLxMQ8=
+		i04aQTEjvWnm94SHLopqharRwb0=
 		</data>
 		<key>watchos-arm64_x86_64-simulator/GrenLogger.framework/Modules/module.modulemap</key>
 		<data>
@@ -338,7 +338,7 @@
 		</data>
 		<key>watchos-arm64_x86_64-simulator/GrenLogger.framework/_CodeSignature/CodeResources</key>
 		<data>
-		4NCSxcdtEBM6KfrPiJsVFjxF6ms=
+		YJQmfmL5HO/SjNjvVwSpDpy/xis=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -347,7 +347,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			j4p49A6SmZSIMJ68/rZ99664XN3L6aCqE47J9OKkkZw=
+			e/mgmoN4beaF6yRqocTxbF/J/cmS6kDHc2zX+5ANF3A=
 			</data>
 		</dict>
 		<key>ios-arm64/GrenLogger.framework/Headers/GrenLogger-Swift.h</key>
@@ -361,35 +361,35 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			mzG+G21Fl+MeLVipSJKEuUP0OZXiGdvm+iEiJV67ocU=
+			8Fomc8A4zA1beLjzYmbPh8I8f2bvK0U2eXbZOwK0plQ=
 			</data>
 		</dict>
 		<key>ios-arm64/GrenLogger.framework/Modules/GrenLogger.swiftmodule/arm64-apple-ios.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			LFyps/7hUsbHnxofQCR/dgrnifOGh9ULdW3iYIbwnFA=
+			/j8yJSn5E446s309i3kKSeHn2scaiDYW5Bbi4CKhbJU=
 			</data>
 		</dict>
 		<key>ios-arm64/GrenLogger.framework/Modules/GrenLogger.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			hzopm5jFxBSxzvcn/F4JZcHOdZrdFISMPxjgyglTHtQ=
+			kFQkCjRKfFi8nZ+A2mVW/w0hckF5EUqrAzjokWgRFGM=
 			</data>
 		</dict>
 		<key>ios-arm64/GrenLogger.framework/Modules/GrenLogger.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			IK3d2CLXqzHHyq/tKRADe58O/HK9no2V3ahLDQoqPD4=
+			raDzo3CjbUZw2HxCMy/BY4m0/iESFfJyVUxg0UfsSaA=
 			</data>
 		</dict>
 		<key>ios-arm64/GrenLogger.framework/Modules/GrenLogger.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			hzopm5jFxBSxzvcn/F4JZcHOdZrdFISMPxjgyglTHtQ=
+			kFQkCjRKfFi8nZ+A2mVW/w0hckF5EUqrAzjokWgRFGM=
 			</data>
 		</dict>
 		<key>ios-arm64/GrenLogger.framework/Modules/module.modulemap</key>
@@ -403,7 +403,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			5WtLhKfwNpknDOqVloTTpQpHVP7U3E/TApw7Fc/mVH0=
+			PlZ4uR8+XimEHnP+uDazvFd3b5kIvDmevZ7w2ZDMIHY=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/GrenLogger.framework/Headers/GrenLogger-Swift.h</key>
@@ -417,63 +417,63 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			M/vMwyzle6NUuuFbYdm5xSmhK15/r3bN33UaaJDU+a4=
+			53jfe+4faKwUVjA3HB1G6R4mLJ5FO3VaWJkMJux/uvU=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/GrenLogger.framework/Modules/GrenLogger.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			LFyps/7hUsbHnxofQCR/dgrnifOGh9ULdW3iYIbwnFA=
+			/j8yJSn5E446s309i3kKSeHn2scaiDYW5Bbi4CKhbJU=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/GrenLogger.framework/Modules/GrenLogger.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			2ZJCJDf95P/0YIcUb4i9CEtqOKBdbpGfkKbW0niCTNw=
+			t1S31DBw1LjIkftus8DcRp2ajcGeC6g+GJMhjnS37JQ=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/GrenLogger.framework/Modules/GrenLogger.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			iG04Vy58+aT2I2X/rbF+qtuPsJbu5RO5CxHTDoP5b34=
+			LmN611uBBdXpIF+KJdMrqkL8us/GQvQOFYnvwGq3bRM=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/GrenLogger.framework/Modules/GrenLogger.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			2ZJCJDf95P/0YIcUb4i9CEtqOKBdbpGfkKbW0niCTNw=
+			t1S31DBw1LjIkftus8DcRp2ajcGeC6g+GJMhjnS37JQ=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/GrenLogger.framework/Modules/GrenLogger.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			LFyps/7hUsbHnxofQCR/dgrnifOGh9ULdW3iYIbwnFA=
+			/j8yJSn5E446s309i3kKSeHn2scaiDYW5Bbi4CKhbJU=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/GrenLogger.framework/Modules/GrenLogger.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			zDKbwvV31C+8Xv3lfg1SNYz0fnwpu3atmcjdBpEtgRM=
+			7vs/uwEbVS9rPWUG6N33MwnVLnhRcccsyIWlIUT5MDA=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/GrenLogger.framework/Modules/GrenLogger.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			e5Y5EtnT55h/f+Pt5iG0WUJ93gjrLa1kAc/GBFtZP1M=
+			EhAHXwzNPfJrlY2erX0soqqVf6trzlUzs2On/yACSVE=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/GrenLogger.framework/Modules/GrenLogger.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			zDKbwvV31C+8Xv3lfg1SNYz0fnwpu3atmcjdBpEtgRM=
+			7vs/uwEbVS9rPWUG6N33MwnVLnhRcccsyIWlIUT5MDA=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/GrenLogger.framework/Modules/module.modulemap</key>
@@ -487,7 +487,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Smbm6pang2CBETOyNcdRDg+ZVg9y0TIe2hqSXgN+LgE=
+			HnylUZxjw9ZSBvj2qLXxI3HL/GjTTJkxAtMTtp2WLUw=
 			</data>
 		</dict>
 		<key>macos-arm64_x86_64/GrenLogger.framework/GrenLogger</key>
@@ -514,7 +514,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			RlNz7SEvTwFHbyqq/b+i5Y99oect7LZPscF53HxZ99s=
+			H6Ob3gpYZ3ZMLDBmqWyD8opB4SojS4HmiRLqEl1Pubo=
 			</data>
 		</dict>
 		<key>macos-arm64_x86_64/GrenLogger.framework/Versions/A/Headers/GrenLogger-Swift.h</key>
@@ -528,56 +528,56 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			s6yaKXwcmo/xxxfY+SOohT0Vd2FgWMUIyKKKx9K7qDc=
+			+ARWbPf3Rgc4vMsCNCpuffJ2MNHQ+xvn7G2MRmpPLjA=
 			</data>
 		</dict>
 		<key>macos-arm64_x86_64/GrenLogger.framework/Versions/A/Modules/GrenLogger.swiftmodule/arm64-apple-macos.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ogfuifoDLj7VDYuHn/CSkQgMjE1dNrf1P457OodXJw0=
+			6iugCHQrtPQ6QY2B3Cqe7zAypSOMdVJZa2pIBocU0yU=
 			</data>
 		</dict>
 		<key>macos-arm64_x86_64/GrenLogger.framework/Versions/A/Modules/GrenLogger.swiftmodule/arm64-apple-macos.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			t3V1cVUFLOUrBuYqZSAKcovqO0Q/KerAWmw/8uGVeg8=
+			rSAfkgeU3hIKu2cIw6zjzlW4Tm0rQFU/GWY2Q+XiIf4=
 			</data>
 		</dict>
 		<key>macos-arm64_x86_64/GrenLogger.framework/Versions/A/Modules/GrenLogger.swiftmodule/arm64-apple-macos.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ogfuifoDLj7VDYuHn/CSkQgMjE1dNrf1P457OodXJw0=
+			6iugCHQrtPQ6QY2B3Cqe7zAypSOMdVJZa2pIBocU0yU=
 			</data>
 		</dict>
 		<key>macos-arm64_x86_64/GrenLogger.framework/Versions/A/Modules/GrenLogger.swiftmodule/x86_64-apple-macos.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			s6yaKXwcmo/xxxfY+SOohT0Vd2FgWMUIyKKKx9K7qDc=
+			+ARWbPf3Rgc4vMsCNCpuffJ2MNHQ+xvn7G2MRmpPLjA=
 			</data>
 		</dict>
 		<key>macos-arm64_x86_64/GrenLogger.framework/Versions/A/Modules/GrenLogger.swiftmodule/x86_64-apple-macos.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			qohMW+gn4GnszIur3Ft0KSVkfPSbCTUD65/QylBLt8A=
+			4TdDOO4KELdUbtjbuNevsXVrdQC3Im3Ivs4TaZ4uygE=
 			</data>
 		</dict>
 		<key>macos-arm64_x86_64/GrenLogger.framework/Versions/A/Modules/GrenLogger.swiftmodule/x86_64-apple-macos.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			aMu8yvixj9djZjDFwHL7n36rHCTSlO75U8S5MZ9esD4=
+			qUACVt/W5LmX3/jkgJONHwpDQhR0iUKC6XpyCOeZZqc=
 			</data>
 		</dict>
 		<key>macos-arm64_x86_64/GrenLogger.framework/Versions/A/Modules/GrenLogger.swiftmodule/x86_64-apple-macos.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			qohMW+gn4GnszIur3Ft0KSVkfPSbCTUD65/QylBLt8A=
+			4TdDOO4KELdUbtjbuNevsXVrdQC3Im3Ivs4TaZ4uygE=
 			</data>
 		</dict>
 		<key>macos-arm64_x86_64/GrenLogger.framework/Versions/A/Modules/module.modulemap</key>
@@ -591,14 +591,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			bQxAj8tOCgr8n50ocTcBS80pxJKKQ4RkiDsMd498/Ag=
+			7CNMzYySJCV+H8o5M1x90BL/1PIQ339GOlOsOrnuAk0=
 			</data>
 		</dict>
 		<key>macos-arm64_x86_64/GrenLogger.framework/Versions/A/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			PClBJPMaWUbhzRkkcS+mgPeOJQ8GwNamw8KL1Z5GPfE=
+			C4cvIyEJZRcCM6hythItw4DxnQ1cY9GxuBztMWKb6uA=
 			</data>
 		</dict>
 		<key>macos-arm64_x86_64/GrenLogger.framework/Versions/Current</key>
@@ -610,7 +610,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			sILRiLmR8PKjvSRo4jMu22fxEWT0ETI6hmls6N2RVa4=
+			YLFTd9mTRM87XXxtMd4pCOHdzw0tfxeIHlXtwIsv0vA=
 			</data>
 		</dict>
 		<key>tvos-arm64/GrenLogger.framework/Headers/GrenLogger-Swift.h</key>
@@ -624,35 +624,35 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			zhfsQCWaP6NhgeK7zzKL+EI9hS/evLk42NQ/x6A7jUQ=
+			h4qMF8XtvHV6OwsH+kZY6SfqtKtAn7WL906iiFbmu/8=
 			</data>
 		</dict>
 		<key>tvos-arm64/GrenLogger.framework/Modules/GrenLogger.swiftmodule/arm64-apple-tvos.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			LFyps/7hUsbHnxofQCR/dgrnifOGh9ULdW3iYIbwnFA=
+			/j8yJSn5E446s309i3kKSeHn2scaiDYW5Bbi4CKhbJU=
 			</data>
 		</dict>
 		<key>tvos-arm64/GrenLogger.framework/Modules/GrenLogger.swiftmodule/arm64-apple-tvos.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			7BC5Os+ueI34ogzpQuCMOC7yBtxrn5pc9cgVcBjpbd0=
+			ne4GEK5n1AcPKWGAQaSXQhDFHekQW1sgvXIt/J/6gYQ=
 			</data>
 		</dict>
 		<key>tvos-arm64/GrenLogger.framework/Modules/GrenLogger.swiftmodule/arm64-apple-tvos.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			fb21AcDzE1WZU6KOvzu8IqlcBKwvyj6lw0utI2c3pUs=
+			9asl1oVaKBxUuO6V7XoGUEPJTtuZyWTxD8lbO1s85K8=
 			</data>
 		</dict>
 		<key>tvos-arm64/GrenLogger.framework/Modules/GrenLogger.swiftmodule/arm64-apple-tvos.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			7BC5Os+ueI34ogzpQuCMOC7yBtxrn5pc9cgVcBjpbd0=
+			ne4GEK5n1AcPKWGAQaSXQhDFHekQW1sgvXIt/J/6gYQ=
 			</data>
 		</dict>
 		<key>tvos-arm64/GrenLogger.framework/Modules/module.modulemap</key>
@@ -666,7 +666,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			N5i4uIkc3iy2nWVssZJBXpAZ+p70Czg4T2j+SWbHSKg=
+			97BSk5y312i5hRkkwOol5/ZApDSk/UZ/y6JcN7larPY=
 			</data>
 		</dict>
 		<key>tvos-arm64_x86_64-simulator/GrenLogger.framework/Headers/GrenLogger-Swift.h</key>
@@ -680,63 +680,63 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			3qqo25woAJy7nOE14CLzErM9h/AbqwKOj+qucx6jduM=
+			0AQmeQ+39AyuKc5867qXnaE/6TE92M+a+423zGgoSDY=
 			</data>
 		</dict>
 		<key>tvos-arm64_x86_64-simulator/GrenLogger.framework/Modules/GrenLogger.swiftmodule/arm64-apple-tvos-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			LFyps/7hUsbHnxofQCR/dgrnifOGh9ULdW3iYIbwnFA=
+			/j8yJSn5E446s309i3kKSeHn2scaiDYW5Bbi4CKhbJU=
 			</data>
 		</dict>
 		<key>tvos-arm64_x86_64-simulator/GrenLogger.framework/Modules/GrenLogger.swiftmodule/arm64-apple-tvos-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			LkJcYpBwq7QJO3oAzx9tsmOyBquI+dPrXBqmihrY1XQ=
+			dSZqn55cd8CWx6Kc/8BOACNetq4j8O4Viyl0cQxZqPI=
 			</data>
 		</dict>
 		<key>tvos-arm64_x86_64-simulator/GrenLogger.framework/Modules/GrenLogger.swiftmodule/arm64-apple-tvos-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			lkXR1ds8fNhblr5JLAVILcxi/kQmCc1U/9iKlwz6N40=
+			YIQAFZVsrURc11SwcGUbU9CNsI8s4JA15itnYjYdYA8=
 			</data>
 		</dict>
 		<key>tvos-arm64_x86_64-simulator/GrenLogger.framework/Modules/GrenLogger.swiftmodule/arm64-apple-tvos-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			LkJcYpBwq7QJO3oAzx9tsmOyBquI+dPrXBqmihrY1XQ=
+			dSZqn55cd8CWx6Kc/8BOACNetq4j8O4Viyl0cQxZqPI=
 			</data>
 		</dict>
 		<key>tvos-arm64_x86_64-simulator/GrenLogger.framework/Modules/GrenLogger.swiftmodule/x86_64-apple-tvos-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			LFyps/7hUsbHnxofQCR/dgrnifOGh9ULdW3iYIbwnFA=
+			/j8yJSn5E446s309i3kKSeHn2scaiDYW5Bbi4CKhbJU=
 			</data>
 		</dict>
 		<key>tvos-arm64_x86_64-simulator/GrenLogger.framework/Modules/GrenLogger.swiftmodule/x86_64-apple-tvos-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			dXM79UQfreKcF+cM0lbdfrr1wb04sqYQIonurLfH3/Q=
+			oxoIgk4Ry48pPi99PmiKQK/pjO/ZuvihxIxHR+Bpf6Q=
 			</data>
 		</dict>
 		<key>tvos-arm64_x86_64-simulator/GrenLogger.framework/Modules/GrenLogger.swiftmodule/x86_64-apple-tvos-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			8ZQ1EKG1PpV/WH/krmRGvZ7JfhGyR673J4Xp7TNT3lE=
+			W274muYu1waw6BRb9b8LRIRee/4pqUwh3KGbaT5/x4Q=
 			</data>
 		</dict>
 		<key>tvos-arm64_x86_64-simulator/GrenLogger.framework/Modules/GrenLogger.swiftmodule/x86_64-apple-tvos-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			dXM79UQfreKcF+cM0lbdfrr1wb04sqYQIonurLfH3/Q=
+			oxoIgk4Ry48pPi99PmiKQK/pjO/ZuvihxIxHR+Bpf6Q=
 			</data>
 		</dict>
 		<key>tvos-arm64_x86_64-simulator/GrenLogger.framework/Modules/module.modulemap</key>
@@ -750,14 +750,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			CVu9XAME7ixE3bh9EA5WIkuW1R9TdyMmjjrhdK7vMCw=
+			99tQPJlJi99UycLxiW6W7V/2K92/uMgSZurauHo3cRs=
 			</data>
 		</dict>
 		<key>watchos-arm64_arm64_32_armv7k/GrenLogger.framework/GrenLogger</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			qXTeYJN8PNSmEB+7zUOW0q2QA8ipii7+IEPhtndHfIw=
+			DYMxTu6IWBBnX8HkoLnyC9sJn8Yib5O9K19yAovGfzg=
 			</data>
 		</dict>
 		<key>watchos-arm64_arm64_32_armv7k/GrenLogger.framework/Headers/GrenLogger-Swift.h</key>
@@ -771,91 +771,91 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			xvh+u+4CCgRo49Q2fJyFKRfTfSdKLj1r0uHwSydVEs8=
+			HTm2+f34fMq0Mv1fOCaucei6OuUYbKbu1xXgooxvadM=
 			</data>
 		</dict>
 		<key>watchos-arm64_arm64_32_armv7k/GrenLogger.framework/Modules/GrenLogger.swiftmodule/arm64-apple-watchos.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			LFyps/7hUsbHnxofQCR/dgrnifOGh9ULdW3iYIbwnFA=
+			/j8yJSn5E446s309i3kKSeHn2scaiDYW5Bbi4CKhbJU=
 			</data>
 		</dict>
 		<key>watchos-arm64_arm64_32_armv7k/GrenLogger.framework/Modules/GrenLogger.swiftmodule/arm64-apple-watchos.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			gInJbbkyU2cu5oL9dRiLm6YIvqdscuJUnqeomSmdYb0=
+			FyeruDK4mp/8NAW605RGeUodAtArw8NHY/PTiLdK/HA=
 			</data>
 		</dict>
 		<key>watchos-arm64_arm64_32_armv7k/GrenLogger.framework/Modules/GrenLogger.swiftmodule/arm64-apple-watchos.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			kzd6VDpaZQnWTSuZqY8dnBYoL4LQ0kF10FMEQWZyino=
+			WSAWs1u6IVcMyEbyhxOMkoHrtoXJoZjl1hk8pGbHdjc=
 			</data>
 		</dict>
 		<key>watchos-arm64_arm64_32_armv7k/GrenLogger.framework/Modules/GrenLogger.swiftmodule/arm64-apple-watchos.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			gInJbbkyU2cu5oL9dRiLm6YIvqdscuJUnqeomSmdYb0=
+			FyeruDK4mp/8NAW605RGeUodAtArw8NHY/PTiLdK/HA=
 			</data>
 		</dict>
 		<key>watchos-arm64_arm64_32_armv7k/GrenLogger.framework/Modules/GrenLogger.swiftmodule/arm64_32-apple-watchos.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			LFyps/7hUsbHnxofQCR/dgrnifOGh9ULdW3iYIbwnFA=
+			/j8yJSn5E446s309i3kKSeHn2scaiDYW5Bbi4CKhbJU=
 			</data>
 		</dict>
 		<key>watchos-arm64_arm64_32_armv7k/GrenLogger.framework/Modules/GrenLogger.swiftmodule/arm64_32-apple-watchos.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			qruXCM1eNqkK5hP3v/5Yf3OpG+yp73KLU2K62J1kh+w=
+			QOoiOpBlQ0tryg2InJQ6QZOX+b24e9xLZIH/Qhr4s24=
 			</data>
 		</dict>
 		<key>watchos-arm64_arm64_32_armv7k/GrenLogger.framework/Modules/GrenLogger.swiftmodule/arm64_32-apple-watchos.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			gAfAsaizACyVBhgAyoeXz7S3XPDzlspPMYOtbq03ahI=
+			LKhvwK6C1qzRSQbkQdM/Llz0qgY+WxKzdYdaRXqbIgI=
 			</data>
 		</dict>
 		<key>watchos-arm64_arm64_32_armv7k/GrenLogger.framework/Modules/GrenLogger.swiftmodule/arm64_32-apple-watchos.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			qruXCM1eNqkK5hP3v/5Yf3OpG+yp73KLU2K62J1kh+w=
+			QOoiOpBlQ0tryg2InJQ6QZOX+b24e9xLZIH/Qhr4s24=
 			</data>
 		</dict>
 		<key>watchos-arm64_arm64_32_armv7k/GrenLogger.framework/Modules/GrenLogger.swiftmodule/armv7k-apple-watchos.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			LFyps/7hUsbHnxofQCR/dgrnifOGh9ULdW3iYIbwnFA=
+			/j8yJSn5E446s309i3kKSeHn2scaiDYW5Bbi4CKhbJU=
 			</data>
 		</dict>
 		<key>watchos-arm64_arm64_32_armv7k/GrenLogger.framework/Modules/GrenLogger.swiftmodule/armv7k-apple-watchos.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			JbKDj1LwLEYg2xn0aDCd4kzaRGefS9Wau93h86KIovc=
+			j9b13lWEGNlWQdXws9KyoTiH0T0gb9a4n+2XnvpI8EE=
 			</data>
 		</dict>
 		<key>watchos-arm64_arm64_32_armv7k/GrenLogger.framework/Modules/GrenLogger.swiftmodule/armv7k-apple-watchos.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			X/SFUy64bvGEl+TefnlumL4jcFSlrnG9tzp0tFMwrMs=
+			DQuxZuQQZANPePF9OMe3Ioze7CZTwGxzSmLp6WUuOmI=
 			</data>
 		</dict>
 		<key>watchos-arm64_arm64_32_armv7k/GrenLogger.framework/Modules/GrenLogger.swiftmodule/armv7k-apple-watchos.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			JbKDj1LwLEYg2xn0aDCd4kzaRGefS9Wau93h86KIovc=
+			j9b13lWEGNlWQdXws9KyoTiH0T0gb9a4n+2XnvpI8EE=
 			</data>
 		</dict>
 		<key>watchos-arm64_arm64_32_armv7k/GrenLogger.framework/Modules/module.modulemap</key>
@@ -869,7 +869,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			+MoSczDNBqI+BDluaIlpBjm5iKLCvXCVrBC7Oi2/wbA=
+			DbIMKCEtqCr+onr7QzJAg+v/oRxHTIPNSRgpN+GPakw=
 			</data>
 		</dict>
 		<key>watchos-arm64_x86_64-simulator/GrenLogger.framework/Headers/GrenLogger-Swift.h</key>
@@ -883,63 +883,63 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			lYRUJ9x/aCs17m3Oqw0tkItSmRDz3WrLN5D/g9WpEww=
+			o6M1Ve4wXSiXI6PXi8ooZx+MjeOLiO78ME+xN9yLOI4=
 			</data>
 		</dict>
 		<key>watchos-arm64_x86_64-simulator/GrenLogger.framework/Modules/GrenLogger.swiftmodule/arm64-apple-watchos-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			LFyps/7hUsbHnxofQCR/dgrnifOGh9ULdW3iYIbwnFA=
+			/j8yJSn5E446s309i3kKSeHn2scaiDYW5Bbi4CKhbJU=
 			</data>
 		</dict>
 		<key>watchos-arm64_x86_64-simulator/GrenLogger.framework/Modules/GrenLogger.swiftmodule/arm64-apple-watchos-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			esCIZqU6NnhRVmicUMXKQ1gAfkRdhg2FWZR9w1qJCio=
+			voReNqnlyQcsDd0Sh5Wo+BXphSKwYRtElCppOzUKQaY=
 			</data>
 		</dict>
 		<key>watchos-arm64_x86_64-simulator/GrenLogger.framework/Modules/GrenLogger.swiftmodule/arm64-apple-watchos-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			mzJeKKWjKbabwNJ7aEZBO93LAUKA2yry5XkTQraIQ8M=
+			4SxPYWTlvFh0QSfCpLd2sjkb3PsP5A9ytVYAAplxgAw=
 			</data>
 		</dict>
 		<key>watchos-arm64_x86_64-simulator/GrenLogger.framework/Modules/GrenLogger.swiftmodule/arm64-apple-watchos-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			esCIZqU6NnhRVmicUMXKQ1gAfkRdhg2FWZR9w1qJCio=
+			voReNqnlyQcsDd0Sh5Wo+BXphSKwYRtElCppOzUKQaY=
 			</data>
 		</dict>
 		<key>watchos-arm64_x86_64-simulator/GrenLogger.framework/Modules/GrenLogger.swiftmodule/x86_64-apple-watchos-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			LFyps/7hUsbHnxofQCR/dgrnifOGh9ULdW3iYIbwnFA=
+			/j8yJSn5E446s309i3kKSeHn2scaiDYW5Bbi4CKhbJU=
 			</data>
 		</dict>
 		<key>watchos-arm64_x86_64-simulator/GrenLogger.framework/Modules/GrenLogger.swiftmodule/x86_64-apple-watchos-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ruEcyJQPZ1kSP8oRSn1pO7F9vb1Dl4GPrz7GWTijj68=
+			nq8x+txpXJtQKCtn2AYSp8EQeMky5wrLZZcUBU67p/k=
 			</data>
 		</dict>
 		<key>watchos-arm64_x86_64-simulator/GrenLogger.framework/Modules/GrenLogger.swiftmodule/x86_64-apple-watchos-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ta9gaXl1JkLe2LFjca/B1OzAONeP/VeLlt79JZ8K464=
+			r7Tr8OgRAahzipJbGTV0L/a1ZwelWE4nUq/UYcfipHc=
 			</data>
 		</dict>
 		<key>watchos-arm64_x86_64-simulator/GrenLogger.framework/Modules/GrenLogger.swiftmodule/x86_64-apple-watchos-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ruEcyJQPZ1kSP8oRSn1pO7F9vb1Dl4GPrz7GWTijj68=
+			nq8x+txpXJtQKCtn2AYSp8EQeMky5wrLZZcUBU67p/k=
 			</data>
 		</dict>
 		<key>watchos-arm64_x86_64-simulator/GrenLogger.framework/Modules/module.modulemap</key>
@@ -953,7 +953,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			0Ac4tEm0YMHzlELcp9NfoM9uYumFtr2nMU7LocYZ7jM=
+			1+agO7nwE5gqk77rBszaq4d7bzI8VfJ6FMNWRL+tpyc=
 			</data>
 		</dict>
 	</dict>
